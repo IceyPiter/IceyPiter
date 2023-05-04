@@ -1,7 +1,7 @@
 <h1 align=”center”>&#128293; Salve &#128293;</h1>
 <div>
   <a href="https://github.com/IceyPiter">
-  <img height="180em" src="https://github-readme-stats.vercel.app/apu?username=IceyPiter&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IceyPiter&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Piter-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
