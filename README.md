@@ -1,4 +1,4 @@
-### :&#128293;: Salve :&#128293;:
+### &#128293; Salve &#128293;
 
 Here are some ideas to get you started:
 
