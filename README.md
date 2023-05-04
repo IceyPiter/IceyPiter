@@ -1,4 +1,4 @@
-<h1>&#128293; Salve &#128293;</h1>
+<h1 align=”center”>&#128293; Salve &#128293;</h1>
 
 Here are some ideas to get you started:
 
