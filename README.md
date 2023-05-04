@@ -1,4 +1,4 @@
-### :U+1F63A: Salve :U+1F63A:
+### :&#128293;: Salve :&#128293;:
 
 Here are some ideas to get you started:
 
