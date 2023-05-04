@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IceyPiter&layout=compact&langs_count=168&theme=dark"/>
 </div>
   <h2>Desenvolvedor de Software</h2>
-<div style="display: inline_block"><br>
+<div style="display: inline_block" position="center"><br>
   <p align="center">Liguagens</p>
   <img align_items="center" alt="Piter-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align_items="center" alt="Piter-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
