@@ -1,6 +1,5 @@
 <h1 align=”center”>&#128293; Salve &#128293;</h1>
-<p align=”center”>&#128293; Salve &#128293;</p>
-Here are some ideas to get you started:
+<a href="https://github.com/rafaballerini">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
