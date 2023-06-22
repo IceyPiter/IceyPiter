@@ -9,7 +9,6 @@
 </div>
 <div align="center">
   <h2>&#128126; Desenvolvedor de Software &#128126;</h2>
-  <b></b>
   <h2>Linguagens</h2>
 </div>
 <div align="center" style="display: inline_block"><br>
