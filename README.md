@@ -1,4 +1,4 @@
-![image]([[https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fsukuna-ryomen-sukuna-jujutsu-kaisen-jjk-gif-20696905&psig=AOvVaw1s99DSodxX1I5rrnvj6vtH&ust=1687541655922000&source=images&cd=vfe&ved=0CA4QjRxqGAoTCJi-y9q01_8CFQAAAAAdAAAAABCkAQ](https://media.tenor.com/38_Y3UbLzCgAAAAC/sukuna-ryomen-sukuna.gif)](https://aniyuki.com/wp-content/uploads/2022/03/aniyuki-jujutsu-kaisen-55.gif))
+![image](https://aniyuki.com/wp-content/uploads/2022/03/aniyuki-jujutsu-kaisen-55.gif)
 <h1 align=”center”>&#128293; Salve &#128293;</h1>
 <div>
   <a href="https://github.com/IceyPiter">
