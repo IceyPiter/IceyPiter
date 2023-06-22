@@ -1,6 +1,6 @@
 <div align="center" ><h1 align=”center”>&#128293; Salve &#128293;</h1></div>
 <div align="center">
-  <img align="center" height="700" width="1000" src="https://i.ytimg.com/vi/LRqqckKj_PY/mqdefault.jpg">
+  <img align="center" height="700" width="1000" src="https://thumbs.gfycat.com/ChubbySingleEquine-size_restricted.gif">
 </div>
 <h2 align="center">Status Rank S</h2>
 <div align="center">
