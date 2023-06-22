@@ -2,7 +2,7 @@
 <div align="center">
   <img align="center" src="https://thumbs.gfycat.com/ChubbySingleEquine-size_restricted.gif">
 </div>
-<h2 align="center" style="color:#B70404;">Status Rank S</h2>
+<h2 align="center" style="text-color:#B70404;">Status Rank S</h2>
 <div align="center">
   <a href="https://github.com/IceyPiter">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IceyPiter&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
