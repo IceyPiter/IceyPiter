@@ -1,6 +1,6 @@
 <div align="center" ><h1 align=”center”>&#128293; Salve &#128293;</h1></div>
 <div align="center">
-  <img align="center" height="500" width="800" src="https://thumbs.gfycat.com/ChubbySingleEquine-size_restricted.gif">
+  <img align="center" height="500" width="900" src="https://thumbs.gfycat.com/ChubbySingleEquine-size_restricted.gif">
 </div>
 <h2 align="center">Status Rank S</h2>
 <div align="center">
