@@ -1,5 +1,6 @@
-<center>![image](https://thumbs.gfycat.com/ChubbySingleEquine-size_restricted.gif)</center>
-<img align="center" src="https://thumbs.gfycat.com/ChubbySingleEquine-size_restricted.gif">
+<div align="center">
+  <img align="center" src="https://thumbs.gfycat.com/ChubbySingleEquine-size_restricted.gif">
+</div>
 <h1 align=”center”>&#128293; Salve &#128293;</h1>
 <div>
   <a href="https://github.com/IceyPiter">
