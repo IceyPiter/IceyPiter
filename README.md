@@ -1,4 +1,4 @@
-<div align="center"><h1 align=”center”>&#128293; Salve &#128293;</h1></div>
+<div align="center" style="backgroud-color:white;"><h1 align=”center”>&#128293; Salve &#128293;</h1></div>
 <div align="center">
   <img align="center" style="padding: 10;" src="https://thumbs.gfycat.com/ChubbySingleEquine-size_restricted.gif">
 </div>
