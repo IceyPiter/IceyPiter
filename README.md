@@ -9,7 +9,7 @@
 </div>
  <h2>&#128126; Desenvolvedor de Software &#128126;</h2>
   <b>Liguagens:</b>
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align_items="center" position="center" alt="Piter-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align_items="center" alt="Piter-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align_items="center" alt="Piter-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
