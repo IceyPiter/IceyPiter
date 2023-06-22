@@ -1,6 +1,6 @@
 <div align="center"><h1 align=”center”>&#128293; Salve &#128293;</h1></div>
 <div align="center">
-  <img align="center" style="margin-bottom: 10px;" src="https://thumbs.gfycat.com/ChubbySingleEquine-size_restricted.gif">
+  <img align="center" style="margin-right: 10px;" src="https://thumbs.gfycat.com/ChubbySingleEquine-size_restricted.gif">
 </div>
 <div align="center">
   <a href="https://github.com/IceyPiter">
