@@ -1,4 +1,4 @@
-![image](https://thumbs.gfycat.com/ChubbySingleEquine-size_restricted.gif)
+<center>![image](https://thumbs.gfycat.com/ChubbySingleEquine-size_restricted.gif)</center>
 
 <h1 align=”center”>&#128293; Salve &#128293;</h1>
 <div>
