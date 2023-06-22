@@ -1,6 +1,6 @@
-<div align="center">
+
   ![image](https://aniyuki.com/wp-content/uploads/2022/03/aniyuki-jujutsu-kaisen-55.gif)
-</div>
+
 
 <h1 align=”center”>&#128293; Salve &#128293;</h1>
 <div>
