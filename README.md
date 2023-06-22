@@ -1,6 +1,6 @@
 <div align="center"><h1 align=”center”>&#128293; Salve &#128293;</h1></div>
 <div align="center">
-  <img align="center" src="https://a-static.besthdwallpaper.com/jujutsu-kaisen-sukuna-wallpaper-1920x1080-65800_48.jpg">
+  <img align="center" src="https://i.ytimg.com/vi/LRqqckKj_PY/mqdefault.jpg">
 </div>
 <h2 align="center">Status Rank S</h2>
 <div align="center">
