@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/IceyPiter">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IceyPiter&show_icons=true&theme=dark&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IceyPiter&layout=compact&langs_count=168&theme=dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IceyPiter&layout=compact&langs_count=168&theme=dark"/>
 </div>
 <h2 align="center">Desenvolvedor nas Linguagens</h2>
 <div align="center" style="display: inline_block"><br>
