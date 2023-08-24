@@ -1,5 +1,10 @@
 <div align="center" ><h1 align=”center”>&#128293; Salve &#128293;</h1></div>
 <h2 align="center">Status Rank S</h2>
+<div>
+  <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ranyviih&show_icons=true&theme=react&hide_border=true"/> 
+  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ranyviih&layout=compact&theme=react&hide_border=true"/>
+  <br>
+</div>
 <div align="center">
   <a href="https://github.com/IceyPiter">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IceyPiter&show_icons=true&theme=dark&include_all_commits=false&count_private=false"/>
