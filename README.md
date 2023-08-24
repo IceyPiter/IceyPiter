@@ -2,7 +2,7 @@
 <h2 align="center">Status Rank S</h2>
 <div align="center">
   <a href="https://github.com/IceyPiter">
-  <img width="180rem" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IceyPiter&show_icons=true&theme=dark&hide_border=true"/> 
+  <img width="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IceyPiter&show_icons=true&theme=dark&hide_border=true"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IceyPiter&layout=compact&langs_count=168&theme=dark"/>
 </div>
 <h2 align="center">Desenvolvedor nas Linguagens</h2>
