@@ -1,5 +1,5 @@
 <div align="center" ><h1 align=”center”>&#128293; Salve &#128293;</h1></div>
-<h2 align="center">Status Rank S</h2>
+<h2 align="center">Status Rank A+</h2>
 <div align="center">
   <a href="https://github.com/IceyPiter">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IceyPiter&show_icons=true&theme=dark"/> 
