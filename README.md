@@ -19,9 +19,8 @@
 
 - 🎓 Cursando **Ciência da Computação** — Unioeste
 - 📜 Técnico em Informática — IFPR
-- 🚀 Atualmente trabalhando mais com **Front-end** e **Cloud / Infraestrutura**.
-- 🛠️ Experiência com **Sistemas Embarcados & Hardware**
-- 🌐 **[gc.grupodobolo.com.br](https://gc.grupodobolo.com.br)**
+- 🚀 Atualmente trabalhando mais com **Gestão** de **Projeto**.
+- 🛠️ Experiência com **Desenvolvimento Web & Gestão**
 - 🍰 **[grupodobolo.com.br](https://grupodobolo.com.br)**
 
 ---
