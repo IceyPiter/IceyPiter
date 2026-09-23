@@ -49,7 +49,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GabrielCM16&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-xi-lac-46.vercel.app/api?username=IceyPiter&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 ---
