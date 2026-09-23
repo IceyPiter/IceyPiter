@@ -3,11 +3,12 @@
   
   <br>
 
-  <a href="https://www.linkedin.com/in/gabriel-costa-946984292/" target="_blank">
+<!--  <a href="https://www.linkedin.com/in/gabriel-costa-946984292/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/gcmoraes__" target="_blank">
+-->
+  <a href="https://www.instagram.com/dpedromichalski" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" />
   </a>
 </div>
